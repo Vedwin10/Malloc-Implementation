@@ -1,0 +1,6 @@
+.gitignore_original
+nickname.txt
+contest.h
+contest-alloc.so
+mcontest.c
+run_all_mcontest.sh
